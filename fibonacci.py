@@ -1,3 +1,4 @@
+#Programa para calcular un número con su Secuencia de Fibonacci.
 def fib(n, allNumbers = {}):
     if n <= 1:
         return n
